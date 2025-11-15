@@ -16,11 +16,12 @@
 
 ---
 
+
 ### 👨‍💻 About Me
 
 <div align="center">
   
-<img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/jihadjp/JihadFiles/main/coding%20anim.gif">
+<img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/jihadjp/JihadFiles/main/coding%20anim.gif](https://zohirrayhan.me/cdn/settings/home-bg.jpeg">
 
 <p align="left">With 3+ years of dedicated experience in software development, I specialize in creating robust Android and web applications using JAVA. My journey began with a simple curiosity about how digital platforms that shape our daily lives come into existence, which has evolved into a passion for crafting seamless digital experiences.</p>
 
@@ -31,6 +32,7 @@
 **🎯 Mission:** Solving real-world problems through elegant code
 
 </div>
+
 ---
 
 ### 🛠️ Tech Stack
