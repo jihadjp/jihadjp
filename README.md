@@ -37,7 +37,7 @@
 ### 🛠️ Tech Stack
 
 #### **Languages & Platforms**
-<p align="left">
+<p align="center">
   <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
