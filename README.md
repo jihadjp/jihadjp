@@ -5,7 +5,7 @@
 <br>
 
 <a href="https://www.linkedin.com/in/jihadjp100/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=2AA889&center=true&vCenter=true&random=false&width=435&lines=Assalamualaikum;I'm+Jihad+J+P" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=2AA889&center=true&vCenter=true&random=false&width=435&lines=Assalamualaikum;I'm+Jihad" alt="Typing SVG" />
 </a>
 
 <h3>JAVA Specialist | Full-Stack Developer</h3>
@@ -31,7 +31,6 @@
 **🎯 Mission:** Solving real-world problems through elegant code
 
 </div>
-
 ---
 
 ### 🛠️ Tech Stack
