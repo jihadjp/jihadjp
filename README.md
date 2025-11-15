@@ -5,7 +5,7 @@
 
 <h3 align="left">About me: </h3>
 <img align="right" alt="programming" width="300" src="https://raw.githubusercontent.com/jihadjp/JihadFiles/main/coding%20anim.gif">
-<p>Ever wonder what magic happens when tech meets creativity? Dive in to see how I blend art and code to craft bespoke digital experiences. As a seasoned developer, I've journeyed through the realms of JS, JAVA, Dart, Flutter, Dart, Flutter focusing on Android, iOS, and web applications that resonate and engage.
+<p>Ever wonder what magic happens when tech meets creativity? Dive in to see how I blend art and code to craft bespoke digital experiences. As a seasoned developer, I've journeyed through the realms of JAVA focusing on Android and web applications that resonate and engage.
 
 Three years ago, I embarked on my coding journey driven by a simple curiosity: how do digital platforms that shape our daily lives come into existence? Since then, my curiosity has evolved into a passion, compelling me to master various technologies
 
