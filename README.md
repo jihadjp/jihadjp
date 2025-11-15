@@ -102,5 +102,10 @@
 <div align="center">
   
 ### 💼 *"Got an exciting project? Let's bring your vision to life!"*
-  
+
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2AA889&height=80&section=footer" />
+
 </div>
