@@ -27,9 +27,9 @@
 
 <p align="left">I believe in the power of collaborative growth and regularly share knowledge through coding workshops and tech communities. Whether it's building scalable applications or solving complex problems, I'm committed to delivering solutions that make a difference.</p>
 
-<p align="left">**🚀 Currently exploring:** Advanced Android Architecture & Cloud Technologies</p>  
-<p align="left">**💡 Passionate about:** Clean Code, User Experience, and Open Source</p>  
-<p align="left">**🎯 Mission:** Solving real-world problems through elegant code</p>
+<p align="left"><strong>🚀 Currently Exploring:</strong> Advanced Android Architecture & Cloud Technologies</p>  
+<p align="left"><strong>💡 Passionate About:</strong> Clean Code, User Experience, and Open Source</p>  
+<p align="left"><strong>🎯 Mission:</strong> Solving real-world problems through elegant code</p>
 
 </div>
 
