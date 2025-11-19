@@ -46,7 +46,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ <strong>Skills:</strong>
 
 #### **Languages & Platforms**
 <p align="center">
