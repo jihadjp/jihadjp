@@ -68,7 +68,7 @@
 ---
 
 # 📊 GitHub Stats:
-![Jihad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jihadjp&show_icons=true&theme=default&hide_border=true&include_all_commits=true)<br/>
+![Jihad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jihadjp&theme=dark&hide_border=false&include_all_commits=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=jihadjp&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jihadjp&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
