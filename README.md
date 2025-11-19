@@ -67,18 +67,17 @@
 
 ---
 
-### 📊 GitHub Analytics
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jihadjp&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=jihadjp&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jihadjp&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center">
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jihadjp&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-| ![Jihad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jihadjp&show_icons=true&theme=default&hide_border=true&include_all_commits=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jihadjp&layout=compact&theme=default&hide_border=true&langs_count=6) |
-|:---:|:---:|
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=jihadjp&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jihadjp&theme=default&hide_border=true)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=jihadjp&theme=flat&no-frame=true&margin-w=10&row=2&column=4)
-
-</div>
 
 ---
 
