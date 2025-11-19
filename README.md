@@ -39,7 +39,7 @@
 <p align="left"><strong>- 🔭 I’m currently working on web development </strong></p>  
 <p align="left"><strong>- 🌱 I’m currently learning web development </strong></p>  
 <p align="left"><strong>- 👯 I’m looking to collaborate on github </strong></p>
-<p align="left"><strong>- 📫 How to reach me: programmerjihad@gmail.com  </strong></p>
+<!-- <p align="left"><strong>- 📫 How to reach me: programmerjihad@gmail.com  </strong></p> -->
 
 
 </div>
