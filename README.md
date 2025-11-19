@@ -30,13 +30,16 @@
 
 <p align="left">I believe in the power of collaborative growth and regularly share knowledge through coding workshops and tech communities. Whether it's building scalable applications or solving complex problems, I'm committed to delivering solutions that make a difference.</p>
 
-<p align="left"><strong>🚀 Currently Exploring:</strong> Advanced Android Architecture & Cloud Technologies</p>  
+<!-- <p align="left"><strong>🚀 Currently Exploring:</strong> Advanced Android Architecture & Cloud Technologies</p>  
 <p align="left"><strong>💡 Passionate About:</strong> Clean Code, User Experience, and Open Source</p>  
-<p align="left"><strong>🎯 Mission:</strong> Solving real-world problems through elegant code</p>
-- 🔭 I’m currently working on web development 
-- 🌱 I’m currently learning web development 
-- 👯 I’m looking to collaborate on github 
-- 📫 How to reach me: tanjimul2209@gmail.com 
+<p align="left"><strong>🎯 Mission:</strong> Solving real-world problems through elegant code</p> -->
+
+
+<p align="left"><strong>- 🔭 I’m currently working on web development </strong></p>  
+<p align="left"><strong>- 🌱 I’m currently learning web development </strong></p>  
+<p align="left"><strong>- 👯 I’m looking to collaborate on github </strong></p>
+<p align="left"><strong>- 📫 How to reach me: programmerjihad@gmail.com  </strong></p>
+
 
 </div>
 
