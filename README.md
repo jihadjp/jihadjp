@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=jihadjp&left_color=tomato&right_color=yellow&left_text=Profile%20Visitors" alt="Profile Visitors" />
+<!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=jihadjp&left_color=tomato&right_color=yellow&left_text=Profile%20Visitors" alt="Profile Visitors" /> -->
 
 <br>
 
@@ -33,6 +33,10 @@
 <p align="left"><strong>🚀 Currently Exploring:</strong> Advanced Android Architecture & Cloud Technologies</p>  
 <p align="left"><strong>💡 Passionate About:</strong> Clean Code, User Experience, and Open Source</p>  
 <p align="left"><strong>🎯 Mission:</strong> Solving real-world problems through elegant code</p>
+- 🔭 I’m currently working on web development 
+- 🌱 I’m currently learning web development 
+- 👯 I’m looking to collaborate on github 
+- 📫 How to reach me: tanjimul2209@gmail.com 
 
 </div>
 
