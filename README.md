@@ -1,6 +1,8 @@
-<div align="center">
   ![17635444619816784274084693051249](https://github.com/user-attachments/assets/cf3cd5bb-f065-4950-ac14-626f1dc41b24)
 <br>
+
+<div align="center">
+
 <img src="https://visitor-badge.laobi.icu/badge?page_id=jihadjp&left_color=tomato&right_color=yellow&left_text=Profile%20Visitors" alt="Profile Visitors" />
 
 <br>
