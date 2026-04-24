@@ -51,6 +51,7 @@ English learning app with vocabulary modules A–Z, YouTube + PDF lessons, a ful
 <td width="50%" valign="top">
 
   ### [QR Code Scanner Pro](https://play.google.com/store/apps/details?id=com.jptechgenius.qrscanner)
+**QR Code Scanner Pro**
 
 Real-time ML Kit scanning, custom QR generation with logo embedding, cloud-based image/video QR codes with 24-hour auto-expiry. Freemium model with Play Billing.
 
