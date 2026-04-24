@@ -7,7 +7,7 @@
 
 [![Email](https://img.shields.io/badge/programmerjihad@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:programmerjihad@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jihadjp100)
-[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=JP+Tech+Genius)
+[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=7835359095427892179)
 
 </div>
 
@@ -23,7 +23,9 @@ I build Android apps that real people use, and web systems that organizations ru
 <tr>
 <td width="50%" valign="top">
 
-### Our Jamalpur
+### [Our Jamalpur](https://play.google.com/store/apps/details?id=com.jptechgenius.myjamalpur)
+**Our Jamalpur**
+
 **আমাদের জামালপুর**
 
 A community super-app for Jamalpur District. Doctor directory, blood donation network, transport info, government services, local businesses, and Islamic content — all in Bengali.
@@ -35,8 +37,10 @@ A community super-app for Jamalpur District. Doctor directory, blood donation ne
 </td>
 <td width="50%" valign="top">
 
-### Blood Donors HazraBari
-**হাজরাবাড়ী ব্লাড ডোনার**
+### [Hazrabari Blood Donor Society](https://hazrabariblooddonarsociety.com)
+**Hazrabari Blood Donor Society**
+
+**হাজরাবাড়ী  ব্লাড ডোনার সোসাইটি**
 
 Full-stack blood donor platform. Android app + custom PHP/MySQL REST API. Emergency requests, donation stories, real-time FCM notifications, and admin panel.
 
@@ -49,7 +53,7 @@ Full-stack blood donor platform. Android app + custom PHP/MySQL REST API. Emerge
 <tr>
 <td width="50%" valign="top">
 
-### QR Scanner Pro
+  ### [QR Code Scanner Pro](https://play.google.com/store/apps/details?id=com.jptechgenius.qrscanner)
 
 Real-time ML Kit scanning, custom QR generation with logo embedding, cloud-based image/video QR codes with 24-hour auto-expiry. Freemium model with Play Billing.
 
@@ -60,7 +64,8 @@ Real-time ML Kit scanning, custom QR generation with logo embedding, cloud-based
 </td>
 <td width="50%" valign="top">
 
-### Spoken English Pro Max
+### [Zero to Pro - Spoken English](https://play.google.com/store/apps/details?id=com.jptechgenius.spokenenglishpro)
+**Zero to Pro - Spoken English**
 
 English learning app with vocabulary modules A–Z, YouTube + PDF lessons, a full notes system with media attachments and PDF export, and Bengali/English language switching.
 
