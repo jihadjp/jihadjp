@@ -33,16 +33,17 @@ A community super-app for Jamalpur District. Doctor directory, blood donation ne
 ![MVVM](https://img.shields.io/badge/MVVM-4ade80?style=flat-square)
 
 </td>
+
 <td width="50%" valign="top">
 
-### [Hazrabari Blood Donor Society](https://hazrabariblooddonarsociety.com)
-**Hazrabari Blood Donor Society**
+### [Zero to Pro - Spoken English](https://play.google.com/store/apps/details?id=com.jptechgenius.spokenenglishpro)
+**Zero to Pro - Spoken English**
 
-Full-stack blood donor platform. Android app + custom PHP/MySQL REST API. Emergency requests, donation stories, real-time FCM notifications, and admin panel.
+English learning app with vocabulary modules A–Z, YouTube + PDF lessons, a full notes system with media attachments and PDF export, and Bengali/English language switching.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![AdMob](https://img.shields.io/badge/AdMob-EA4335?style=flat-square&logo=google&logoColor=white)
 
 </td>
 </tr>
@@ -58,16 +59,18 @@ Real-time ML Kit scanning, custom QR generation with logo embedding, cloud-based
 ![Room](https://img.shields.io/badge/Room-FF6F00?style=flat-square)
 
 </td>
+
+
 <td width="50%" valign="top">
 
-### [Zero to Pro - Spoken English](https://play.google.com/store/apps/details?id=com.jptechgenius.spokenenglishpro)
-**Zero to Pro - Spoken English**
+### [Hazrabari Blood Donor Society](https://hazrabariblooddonarsociety.com)
+**Hazrabari Blood Donor Society**
 
-English learning app with vocabulary modules A–Z, YouTube + PDF lessons, a full notes system with media attachments and PDF export, and Bengali/English language switching.
+Full-stack blood donor platform. Android app + custom PHP/MySQL REST API. Emergency requests, donation stories, real-time FCM notifications, and admin panel.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![AdMob](https://img.shields.io/badge/AdMob-EA4335?style=flat-square&logo=google&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 </td>
 </tr>
