@@ -15,8 +15,6 @@
 
 I build Android apps that real people use, and web systems that organizations run on. My focus is Java on Android and Spring Boot on the backend — from idea to Play Store deployment.
 
-**Available for freelance Android development projects.**
-
 ---
 
 ## 📱 Android Apps — Live on Google Play
@@ -124,8 +122,8 @@ Course management, assessments, progress tracking, certificate generation, and d
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=jihadjp&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&hide_rank=true" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihadjp&theme=github_dark&hide_border=true&layout=compact&count_private=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=jihadjp&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihadjp&theme=github_dark&hide_border=true&layout=compact" />
 
 </div>
 
@@ -133,8 +131,6 @@ Course management, assessments, progress tracking, certificate generation, and d
 
 <div align="center">
 
-*Open to freelance Android projects and collaborations*
-<br/>
 **programmerjihad@gmail.com**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=80&section=footer" />
