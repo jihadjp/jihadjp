@@ -1,67 +1,142 @@
-# Jihad
-**Android Developer · Java · Spring Boot · React**
+<div align="center">
 
-I build production Android apps and full-stack web systems. Based in Jamalpur, Bangladesh. Available for freelance Android development projects.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=header&text=Jihad&fontSize=48&fontColor=4ade80&fontAlignY=65&animation=fadeIn" />
 
----
+### Android Developer & Full-Stack Engineer
+*Building production apps from Jamalpur, Bangladesh 🇧🇩*
 
-## Apps on Google Play
+[![Email](https://img.shields.io/badge/programmerjihad@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:programmerjihad@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jihadjp100)
+[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=JP+Tech+Genius)
 
-### [Our Jamalpur (আমাদের জামালপুর)](https://github.com/jihadjp/Our_Jamalpur)
-A community super-app for Jamalpur District. Covers healthcare (doctor directory, blood donation network), transport, government services, local business listings, tourism, and Islamic content — all in Bengali. Built for real users, actively maintained.
-
-`Java 17` `Android` `Firebase` `MVVM` `Material Design 3` `FCM`
-
----
-
-### [Blood Donors HazraBari](https://github.com/jihadjp/blood-donors-hazrabari)
-A full-stack blood donor management platform. Android app + custom PHP/MySQL REST API backend. Donors register, post emergency requests, share donation stories, and receive real-time FCM push notifications. Includes an admin panel for full content moderation.
-
-`Java` `Android` `PHP` `MySQL` `Retrofit` `Firebase FCM` `Material 3`
+</div>
 
 ---
 
-### [QR Scanner Pro](https://github.com/jihadjp/QR_Scanner_Pro)
-A QR code scanner and generator with real-time ML Kit scanning, custom QR generation (logo embedding, colors, 9 content types), cloud-based image/video QR codes with 24-hour auto-expiry, and a freemium billing model. Ships with a PHP server backend for cloud uploads.
+I build Android apps that real people use, and web systems that organizations run on. My focus is Java on Android and Spring Boot on the backend — from idea to Play Store deployment.
 
-`Java` `CameraX` `ML Kit` `ZXing` `Room` `Play Billing` `AdMob`
-
----
-
-### [Spoken English Pro Max](https://github.com/jihadjp/SpokenEnglishPro)
-An educational Android app for spoken English improvement. Vocabulary modules A-Z, PDF and YouTube lesson integration, a full notes system with media attachments and PDF export, dark/light theme, and English/Bengali language switching.
-
-`Java 17` `Room` `Navigation Component` `ML Kit OCR` `Firebase` `AdMob`
+**Available for freelance Android development projects.**
 
 ---
 
-## Web Projects
+## 📱 Android Apps — Live on Google Play
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Our Jamalpur
+**আমাদের জামালপুর**
+
+A community super-app for Jamalpur District. Doctor directory, blood donation network, transport info, government services, local businesses, and Islamic content — all in Bengali.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![MVVM](https://img.shields.io/badge/MVVM-4ade80?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### Blood Donors HazraBari
+**হাজরাবাড়ী ব্লাড ডোনার**
+
+Full-stack blood donor platform. Android app + custom PHP/MySQL REST API. Emergency requests, donation stories, real-time FCM notifications, and admin panel.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### QR Scanner Pro
+
+Real-time ML Kit scanning, custom QR generation with logo embedding, cloud-based image/video QR codes with 24-hour auto-expiry. Freemium model with Play Billing.
+
+![CameraX](https://img.shields.io/badge/CameraX-4ade80?style=flat-square)
+![ML Kit](https://img.shields.io/badge/ML_Kit-4285F4?style=flat-square&logo=google&logoColor=white)
+![Room](https://img.shields.io/badge/Room-FF6F00?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### Spoken English Pro Max
+
+English learning app with vocabulary modules A–Z, YouTube + PDF lessons, a full notes system with media attachments and PDF export, and Bengali/English language switching.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![AdMob](https://img.shields.io/badge/AdMob-EA4335?style=flat-square&logo=google&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌐 Web Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### [Sal-Pay](https://github.com/jihadjp/sal-pay)
-A payroll management system for organizations. Handles employee onboarding, self-service attendance with IP whitelisting, automated monthly salary calculation (base + overtime − penalties), payslip PDF generation, and a full admin dashboard with real-time analytics.
+**Payroll Management System**
 
-`Spring Boot 3` `Java 21` `PostgreSQL` `Spring Security` `Thymeleaf` `AdminLTE`
+Employee onboarding, self-service attendance with IP whitelisting, automated salary calculation (base + overtime − penalties), payslip PDF generation, real-time analytics dashboard.
 
----
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![AdminLTE](https://img.shields.io/badge/AdminLTE-3D9970?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
 
 ### [LMS Project](https://github.com/jihadjp/LMS-PROJECT)
-A learning management system with course management, assessments, progress tracking, certificate generation, and discussion forums. React frontend, Spring Boot REST API backend, JWT authentication, and role-based access control.
+**Learning Management System**
 
-`React` `Spring Boot` `MySQL` `JWT` `Tailwind CSS` `Ant Design`
+Course management, assessments, progress tracking, certificate generation, and discussion forums. JWT auth with role-based access (Admin/User).
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Stack
+## 🛠️ Tech Stack
 
-**Android** — Java, MVVM, CameraX, Room, Firebase, ML Kit, Material Design 3, AdMob, Play Billing  
-**Backend** — Spring Boot, PHP, PostgreSQL, MySQL, REST APIs, JWT, Spring Security  
-**Frontend** — React, Thymeleaf, Tailwind CSS  
-**Tools** — Android Studio, IntelliJ IDEA, Git, Figma
+| | |
+|---|---|
+| **Android** | Java, MVVM, CameraX, Room, Firebase, ML Kit, Material Design 3, AdMob, Play Billing |
+| **Backend** | Spring Boot, PHP, PostgreSQL, MySQL, REST APIs, JWT, Spring Security |
+| **Frontend** | React, Thymeleaf, Tailwind CSS, Ant Design |
+| **Tools** | Android Studio, IntelliJ IDEA, VS Code, Figma, Git |
 
 ---
 
-## Contact
+## 📊 GitHub Stats
 
-Open to Android development freelance work and collaborations.
+<div align="center">
 
-[programmerjihad@gmail.com](mailto:programmerjihad@gmail.com) · [LinkedIn](https://linkedin.com/in/jihadjp100) · [GitHub](https://github.com/jihadjp)
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=jihadjp&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&hide_rank=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihadjp&theme=github_dark&hide_border=true&layout=compact&count_private=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+*Open to freelance Android projects and collaborations*
+<br/>
+**programmerjihad@gmail.com**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=80&section=footer" />
+
+</div>
