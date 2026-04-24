@@ -26,8 +26,6 @@ I build Android apps that real people use, and web systems that organizations ru
 ### [Our Jamalpur](https://play.google.com/store/apps/details?id=com.jptechgenius.myjamalpur)
 **Our Jamalpur**
 
-**আমাদের জামালপুর**
-
 A community super-app for Jamalpur District. Doctor directory, blood donation network, transport info, government services, local businesses, and Islamic content — all in Bengali.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -39,8 +37,6 @@ A community super-app for Jamalpur District. Doctor directory, blood donation ne
 
 ### [Hazrabari Blood Donor Society](https://hazrabariblooddonarsociety.com)
 **Hazrabari Blood Donor Society**
-
-**হাজরাবাড়ী  ব্লাড ডোনার সোসাইটি**
 
 Full-stack blood donor platform. Android app + custom PHP/MySQL REST API. Emergency requests, donation stories, real-time FCM notifications, and admin panel.
 
