@@ -7,7 +7,7 @@
 
 [![Email](https://img.shields.io/badge/programmerjihad@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:programmerjihad@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jihadjp100)
-[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=7835359095427892179)
+[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=7835359095427892179)
 
 </div>
 
